@@ -1,17 +1,3 @@
-function bubbleSort(arrNumbers){
-	let arr =arrNumbers.sort(function(a, b){
-
-			return a - b 
-
-	});
-	console.log("hello world, ====> ", arr);
-
-}
-
-bubbleSort([10, 5, 3, 2, 6, 7, 9, 1, 4, 8]);
-
-
-
 
 function bubbleSort(arrNumbers){
 
